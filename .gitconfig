@@ -1,0 +1,11 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+name = Jason Capriotti
+email = jcapriotti@directs.com
+[diff]
+	tool = meld
+[merge]
+	tool = meld
+[difftool]
+	prompt = false
