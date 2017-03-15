@@ -15,7 +15,7 @@ Then pull the repo:
     cd config
     git init
     git config core.worktree "../../"
-    git remote add origin http://gitlab.directs.com/jcapriotti/linux-settings.git
+    git remote add origin https://github.com/JCapriotti/settings-linux-work.git
     git pull origin master
 
 And run the script:

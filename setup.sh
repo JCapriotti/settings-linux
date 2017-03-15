@@ -5,7 +5,6 @@ if [ "$(whoami)" = "root" ]
   exit
 fi
 
-git remote set-url origin git@gitlab.directs.com:jcapriotti/linux-settings.git
 
 sudo apt update
 sudo apt upgrade
