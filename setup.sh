@@ -13,6 +13,8 @@ mkdir ~/apps
 mkdir ~/git
 
 # Packages
+sudo apt install -y default-jre
+sudo apt install -y default-jdk
 sudo apt install -y terminator
 sudo apt install -y virtualenv
 sudo apt install -y dconf-editor
