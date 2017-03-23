@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=RDP Work
+Terminal=true
+Exec=/opt/freerdp-nightly/bin/xfreerdp /cert-ignore /v:wn7-d-jasonc3 /u:jasonc /g:rds.directsupply.com /gd:mtolympus /gu:jasonc /d:mtolympus +clipboard /f 
+Icon=FreeRDP_Icon_256px.png

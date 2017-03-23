@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=RDP Home
+Terminal=true
+Exec=/opt/freerdp-nightly/bin/xfreerdp /cert-ignore /v:192.168.1.106 /u:jason  +clipboard /f 
+Icon=FreeRDP_Icon_256px.png
