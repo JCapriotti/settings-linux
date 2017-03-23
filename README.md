@@ -25,3 +25,7 @@ And run the script:
 Set password in SMB credentials file:
 
     vi ~/.smbcredentials
+
+References
+--------------
+From https://www.digitalocean.com/community/tutorials/how-to-use-git-to-manage-your-user-configuration-files-on-a-linux-vps
