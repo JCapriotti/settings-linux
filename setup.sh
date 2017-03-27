@@ -22,6 +22,7 @@ sudo apt install -y meld
 sudo apt install -y postgresql
 sudo apt install -y postgresql-server-dev-all
 sudo apt install -y cifs-utils
+sudo apt install -y python-pip
 
 # Liquid Prompt
 git clone https://github.com/nojhan/liquidprompt.git
